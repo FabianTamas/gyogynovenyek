@@ -1,5 +1,3 @@
-# gyogynovenyek
-
 # Megoldás
 
 # Osztály létrehozása
